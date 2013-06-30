@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Users",
+    "description: "Bundle for handling basic user interaction and logins",
+    "url": "http://github.com"
+  },
+  {
+    "name": "Forum",
+    "description": "Basic forum bundle",
+    "url": "http://github.com"
+  }
+]
